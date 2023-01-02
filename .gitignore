@@ -1,0 +1,9 @@
+src/vendor
+src/go.mod
+src/go.sum
+infra/.terraform
+infra/.terraform.lock.hcl
+infra/terraform.tfstate
+infra/terraform.tfstate.backup
+build/
+
